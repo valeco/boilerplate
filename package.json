@@ -1,7 +1,7 @@
 {
   "name": "boilerplate",
   "version": "1.0.0",
-  "description": "Boilerplat to start a new project.",
+  "description": "Boilerplate to start a new project.",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
